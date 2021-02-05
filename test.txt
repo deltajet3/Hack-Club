@@ -5,3 +5,5 @@ changes
 more changes
 
 newBranch changes
+
+new changes
